@@ -1,6 +1,6 @@
 # atri_app
-# this is my project using Atri Framework.
+# this is my assignment using Atri Framework by imitating the portifolio website(https://portfolio-webflow-html-website-template.webflow.io)
 # live demo of the project.
-# https://user-images.githubusercontent.com/93598241/208948477-65fdfbc8-1616-4f5d-9371-2ce6fcd4225d.mp4
+https://user-images.githubusercontent.com/93598241/208950768-9a02928c-c1d1-4f43-be02-2577ba836ced.mp4
 # THANKS
 
